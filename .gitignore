@@ -1,1 +1,2 @@
-.\playlist-maker\*config.js
+# This file tells git to ignore the following files
+.playlist-maker/*config.js
