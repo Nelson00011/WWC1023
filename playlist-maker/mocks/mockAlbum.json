@@ -1,0 +1,64 @@
+{
+  "resource": {
+    "id": "300334014",
+    "barcodeId": "197877066335",
+    "title": "Burn",
+    "artists": [
+      {
+        "id": "4930687",
+        "name": "Synk",
+        "picture": [],
+        "main": true
+      }
+    ],
+    "duration": 700,
+    "releaseDate": "2023-06-16",
+    "imageCover": [
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+        "width": 1280,
+        "height": 1280
+      },
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+        "width": 80,
+        "height": 80
+      }
+    ],
+    "videoCover": [],
+    "numberOfVolumes": 1,
+    "numberOfTracks": 10,
+    "numberOfVideos": 0,
+    "type": "ALBUM",
+    "copyright": "Sony",
+    "mediaMetadata": {
+      "tags": ["LOSSLESS"]
+    },
+    "properties": {}
+  }
+}

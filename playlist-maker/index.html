@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WWC Workshop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="icon" href="favicon.svg" />
+  </head>
+
+  <body>
+    <div id="loading">Getting Web5 ready...</div>
+    <div id="content" style="display: none">
+      <header>
+        <h1 id="heading">Free your playlist</h1>
+        <button id="copyDidButton">Copy your DID</button>
+      </header>
+      <main>
+        <div id="mainContent">
+          <div id="mainHeader">
+            <img id="albumCover" />
+            <div>
+              <h2 id="albumName"></h2>
+              <h3 id="artistName"></h3>
+            </div>
+          </div>
+          <div>
+            <ul id="trackList"></ul>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>

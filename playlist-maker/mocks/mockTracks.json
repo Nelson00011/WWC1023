@@ -1,0 +1,697 @@
+{
+  "data": [
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334015",
+        "title": "Temple",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 1,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391644",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334015",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334016",
+        "title": "Red Carpet",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 2,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391645",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334016",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334017",
+        "title": "Roadster",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 3,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391646",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334017",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334018",
+        "title": "Desert",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 4,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391647",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334018",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334019",
+        "title": "Farmhouse",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 5,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391648",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334019",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334020",
+        "title": "Dragster",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 6,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391649",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334020",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334021",
+        "title": "Stargazer",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 7,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391650",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334021",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334022",
+        "title": "Volcano",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 8,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391651",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334022",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334023",
+        "title": "Burger & Fries",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 9,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391652",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334023",
+      "status": 200,
+      "message": "success"
+    },
+    {
+      "resource": {
+        "artifactType": "track",
+        "id": "300334024",
+        "title": "Lullabies",
+        "artists": [
+          {
+            "id": "4930687",
+            "name": "Synk",
+            "picture": [],
+            "main": true
+          }
+        ],
+        "album": {
+          "id": "300334014",
+          "title": "Burn",
+          "imageCover": [
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1080x1080.jpg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/1280x1280.jpg",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/160x160.jpg",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/320x320.jpg",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/640x640.jpg",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/750x750.jpg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "url": "https://resources.tidal.com/images/01e59756/ffbf/4375/97e3/83a5e8188118/80x80.jpg",
+              "width": 80,
+              "height": 80
+            }
+          ],
+          "videoCover": []
+        },
+        "duration": 70,
+        "trackNumber": 10,
+        "volumeNumber": 1,
+        "isrc": "QZMEN2391653",
+        "copyright": "Sony",
+        "mediaMetadata": {
+          "tags": ["LOSSLESS"]
+        },
+        "properties": {}
+      },
+      "id": "300334024",
+      "status": 200,
+      "message": "success"
+    }
+  ],
+  "metadata": {
+    "total": 10
+  }
+}
