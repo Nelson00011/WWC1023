@@ -1,2 +1,2 @@
-# This file tells git to ignore the following files
-.playlist-maker/*config.js
+# This will ignore API KEY within config file
+/playlist-maker/config.js
